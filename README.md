@@ -74,7 +74,7 @@ This repository is licensed under the MIT License. See the [LICENSE](/LICENSE) f
 
 If you want to contact me you can reach me at [email](mailto:dmkrishna.agarwal@gmail.com).
 
-### Contributers
+### Contributors
  
 Thanks to the following people who have contributed to this project:
 
