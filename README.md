@@ -1,6 +1,6 @@
-## Random Challenges
+## Random Coding Challenges
 
-This is a collection of random challenges I've found on the internet. You can make a pull request to add more challenges and also to add your solutions to the challenges.
+This is a collection of random coding challenges I've found on the internet. You can make a pull request to add more challenges and also to add your solutions to the challenges.
 
 Contribute to this repository by adding your solutions to the challenges and also by adding more challenges.
 
